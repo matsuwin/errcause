@@ -1,1 +1,1 @@
-# errcause
+The errcause project.
